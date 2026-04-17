@@ -1,7 +1,10 @@
 {
-  "cSpell.words": [
-    "Jonkheer",
-    "Pclass",
-    "xticks"
-  ]
+	"cSpell.words": ["Jonkheer", "Pclass", "xticks"],
+	"editor.codeActionsOnSave": {
+		"source.organizeImports": "explicit",
+		"source.unusedImports": "explicit"
+	},
+	"editor.defaultFormatter": "ms-python.autopep8",
+	"editor.detectIndentation": false,
+	"editor.formatOnSave": true,
 }

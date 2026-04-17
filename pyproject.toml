@@ -5,5 +5,7 @@ description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
+    "pandas>=3.0.2",
+    "seaborn>=0.13.2",
     "spyder-kernels>=3.1.4",
 ]
