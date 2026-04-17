@@ -1,0 +1,9 @@
+[project]
+name = "diplomado-uaq"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "spyder-kernels>=3.1.4",
+]
