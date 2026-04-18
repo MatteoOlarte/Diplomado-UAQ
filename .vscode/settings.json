@@ -1,10 +1,23 @@
 {
-	"cSpell.words": ["Jonkheer", "Pclass", "xticks"],
+	"cSpell.words": [
+		"axvline",
+		"Jonkheer",
+		"Pclass",
+		"puntaje",
+		"Puntaje",
+		"pyplot",
+		"xlabel",
+		"xlim",
+		"xtick",
+		"xticks",
+		"ylabel",
+		"ytick"
+	],
 	"editor.codeActionsOnSave": {
 		"source.organizeImports": "explicit",
 		"source.unusedImports": "explicit"
 	},
 	"editor.defaultFormatter": "ms-python.autopep8",
 	"editor.detectIndentation": false,
-	"editor.formatOnSave": true,
+	"editor.formatOnSave": true
 }
