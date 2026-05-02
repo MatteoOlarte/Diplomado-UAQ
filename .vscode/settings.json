@@ -10,6 +10,8 @@
 		"puntaje",
 		"Puntaje",
 		"pyplot",
+		"RMSE",
+		"sklearn",
 		"xlabel",
 		"xlim",
 		"xtick",
@@ -17,11 +19,33 @@
 		"ylabel",
 		"ytick"
 	],
+	"editor.defaultFormatter": "ms-python.autopep8",
+	"breadcrumbs.enabled": true,
+	"breadcrumbs.filePath": "last",
+	"cSpell.allowCompoundWords": true,
+	"cSpell.caseSensitive": false,
+	"cSpell.ignorePaths": [
+		"*.code-workspace",
+		"**/DockerFile",
+		"**/requirements.txt",
+		"**/.gitignore",
+		"**/.vscode/settings.json",
+		"**/pyproject.toml"
+	],
+	"cSpell.ignoreWords": ["pypdf"],
 	"editor.codeActionsOnSave": {
 		"source.organizeImports": "explicit",
 		"source.unusedImports": "explicit"
 	},
-	"editor.defaultFormatter": "ms-python.autopep8",
 	"editor.detectIndentation": false,
-	"editor.formatOnSave": true
+	"editor.formatOnSave": true,
+	"files.exclude": {
+		"pypdf-api": true,
+		"pypdf-react": true
+	},
+	"github.copilot.enable": {
+		"*": true,
+		"plaintext": false
+	},
+	"python.analysis.typeCheckingMode": "standard"
 }
